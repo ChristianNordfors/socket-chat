@@ -3,7 +3,7 @@
 ### Funcionando:
 ```
 - Envío y recenpción de mensajes de varios usuarios
-- Notificaciones de conexción y desconexión
+- Notificaciones de conexión y desconexión
 ```
 
 ### Pendiente:
